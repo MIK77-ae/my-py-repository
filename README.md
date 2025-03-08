@@ -1,2 +1,2 @@
-# second-repository
- репозиторий с кейсами
+# empty-repository
+ пустой репозиторий
