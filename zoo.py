@@ -374,4 +374,3 @@ if __name__ == "__main__":
     print(f"Zoo name: {new_zoo.name}")
     print(f"Animals: {new_zoo.list_animals()}")
     print(f"Staff: {new_zoo.list_staff()}")
-
