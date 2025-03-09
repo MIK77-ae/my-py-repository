@@ -1,2 +1,1 @@
-# empty-repository
- пустой репозиторий
+# my-py-repository
